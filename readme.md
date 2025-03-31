@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemangshu-dey" alt="hemangshu-dey" /></a> </p>
 
-- 🔭 I’m currently working on [SWE Intern](CodeWalnut)
+- 🔭 I’m currently working at [CodeWalnut](https://www.codewalnut.com/) as SWE Intern.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
